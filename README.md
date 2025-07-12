@@ -4,3 +4,5 @@
 "Se ha creado un nuevo Branch para pruebas del proyecto GitHub Jira"
 
 "Adicionalmente se usará este readme para un trazabilidad de cambios en GitHub"
+
+- Nuevos Cambios se subiran al archivo Markdown
