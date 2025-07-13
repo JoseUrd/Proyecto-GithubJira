@@ -6,7 +6,6 @@
 
 "Adicionalmente se usará este readme para un trazabilidad de cambios en GitHub"
 
-- Nuevos Cambios se subiran al archivo 
+- Nuevos Cambios se subiran al archivo
 
 "ACTUALIZACION URGENTE: Todos los sistemas operativos."
-
